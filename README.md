@@ -1,0 +1,1 @@
+# osx-dock-remover
