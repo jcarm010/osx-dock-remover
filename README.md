@@ -1,5 +1,5 @@
 # OSX Dock Remover
-This is a tool to remove icons from the OSX Dock for all the users of the system. 
+This is a tool to remove icons from the OSX Dock for all the users of the system. The script requires to be ran as root.
 
 ###### Basic Usage
 ```
